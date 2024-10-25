@@ -1,0 +1,17 @@
+Z:\INF\UE02_Adresse\UE02_Adresse\bin\Debug\net6.0-windows\UE02_Adresse.exe
+Z:\INF\UE02_Adresse\UE02_Adresse\bin\Debug\net6.0-windows\UE02_Adresse.deps.json
+Z:\INF\UE02_Adresse\UE02_Adresse\bin\Debug\net6.0-windows\UE02_Adresse.runtimeconfig.json
+Z:\INF\UE02_Adresse\UE02_Adresse\bin\Debug\net6.0-windows\UE02_Adresse.dll
+Z:\INF\UE02_Adresse\UE02_Adresse\bin\Debug\net6.0-windows\UE02_Adresse.pdb
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\UE02_Adresse.csproj.AssemblyReference.cache
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\UE02_Adresse.Form1.resources
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\UE02_Adresse.csproj.GenerateResource.cache
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\UE02_Adresse.GeneratedMSBuildEditorConfig.editorconfig
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\UE02_Adresse.AssemblyInfoInputs.cache
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\UE02_Adresse.AssemblyInfo.cs
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\UE02_Adresse.csproj.CoreCompileInputs.cache
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\UE02_Adresse.dll
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\refint\UE02_Adresse.dll
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\UE02_Adresse.pdb
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\UE02_Adresse.genruntimeconfig.cache
+Z:\INF\UE02_Adresse\UE02_Adresse\obj\Debug\net6.0-windows\ref\UE02_Adresse.dll

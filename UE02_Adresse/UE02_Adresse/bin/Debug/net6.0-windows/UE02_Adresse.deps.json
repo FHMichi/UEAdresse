@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UE02_Adresse/1.0.0": {
+        "runtime": {
+          "UE02_Adresse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE02_Adresse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
